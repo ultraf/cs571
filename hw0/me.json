@@ -1,0 +1,16 @@
+{
+  "name": {
+    "first": "Hangkai",
+    "last" : "Fan"
+  },
+  "fromWisconsin": false,
+  "numCredits": 16,
+  "major": "Computer Science",
+  "interests": [
+    "swimming",
+    "table tannis",
+    "programming",
+    "video games"
+  ]
+
+}
